@@ -16,14 +16,6 @@ Usage
     python feature_analysis.py --feature_csv <path> --output_root <path> [options]
 
 See ``if __name__ == "__main__"`` block or ``--help`` for full CLI.
-
-Authors
--------
-<Your name / lab>
-
-License
--------
-<Your license>
 """
 
 # =============================================================================
