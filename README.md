@@ -36,7 +36,7 @@ python sam2maskpropagator.py
 
 ### 2. Organelle Segmentation
 
-Organelle segmentation was performed using [nnUNet](https://github.com/MIC-DKFZ/nnUNet) with pretraining and fine-tuning. Pretrained model checkpoints for all segmented organelles are available on [Zenodo](https://zenodo.org/uploads/17360859).
+Organelle segmentation was performed using [nnUNet](https://github.com/MIC-DKFZ/nnUNet) with pretraining and fine-tuning. Trained model checkpoints for all segmented organelles are available on [Zenodo](https://zenodo.org/uploads/17360859).
 
 ### 3. Mitochondrial Morphology Feature Extraction
 
