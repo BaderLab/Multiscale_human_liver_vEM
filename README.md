@@ -56,7 +56,7 @@ python mito_er_analysis.py
 
 ## Acknowledgements
 
-We thank the [SAM2](https://arxiv.org/abs/2408.00714) and [nnUNet](https://www.nature.com/articles/s41592-020-01008-z) teams for making their source code publicly available. We also thank the [PyRadiomics](https://doi.org/10.1158/0008-5472.CAN-17-0339) team for their open-source morphological feature extraction package.
+We thank the [SAM2](https://arxiv.org/abs/2408.00714) and [nnUNet](https://www.nature.com/articles/s41592-020-01008-z) teams for making their source code publicly available. We also thank the [PyRadiomics](https://doi.org/10.1158/0008-5472.CAN-17-0339) team for their open-source morphological feature extraction package. We gratefully acknowledge [OpenOrganelle](https://openorganelle.janelia.org/) and [Parlakgül et al. (2022)](https://www.nature.com/articles/s41586-022-04488-5) for making the mouse liver volume electron microscopy data publicly available.
 
 ## Citation
 
