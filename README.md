@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Using a deep learning-based segmentation framework, we generated comprehensive labels across vascular, cellular, and subcellular levels, enabling quantitative analysis of bile duct–cholangiocyte organization and sinusoidal branch geometry. At the organelle scale, analysis of 37,920 mitochondria revealed distinct morphological profiles and spatial distributions. Examination of mitochondrial–endoplasmic reticulum (ER) spatial relationships uncovered characteristic ER-associated mitochondrial narrowing, indicative of fission and fusion activity.
+Using a deep learning-based segmentation framework, we generated comprehensive labels across vascular, cellular, and subcellular levels, enabling quantitative analysis of bile duct–cholangiocyte organization and sinusoidal branch geometry. At the organelle scale, analysis of 35,790 mitochondria revealed distinct morphological profiles and spatial distributions. Examination of mitochondrial–endoplasmic reticulum (ER) spatial relationships uncovered characteristic ER-associated mitochondrial narrowing, indicative of fission and fusion activity.
 
 <p align="center">
   <img src="figures/automated_segmentation.png" alt="Automated segmentation overview" width="800">
