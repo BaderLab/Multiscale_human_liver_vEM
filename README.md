@@ -10,7 +10,7 @@ Using a deep learning-based segmentation framework, we generated comprehensive l
 
 ## Installation
 
-1. **Create a virtual environment** to install the required packages. An example setup script is provided in `create_run_example.slurm`.
+1. **Create a virtual environment** to install the required packages. An example setup script is provided in `create_run_example.slurm`. This takes less than 1 min. 
 
 2. **Clone the repository:**
    ```bash
