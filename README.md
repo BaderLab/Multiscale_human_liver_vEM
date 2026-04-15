@@ -28,7 +28,7 @@ Using a deep learning-based segmentation framework, we generated comprehensive l
 
 ### 1. Vascular and Cellular Level Segmentation
 
-We provide a script that uses SAM2 to generate 3D instance masks from input prompts:
+We provide a script that uses SAM2 to generate 3D instance masks from input prompts (GPU is required and we used H100 GPU when running this):
 
 ```bash
 python sam2maskpropagator.py
@@ -36,7 +36,7 @@ python sam2maskpropagator.py
 
 ### 2. Organelle Segmentation
 
-Organelle segmentation was performed using [nnUNet](https://github.com/MIC-DKFZ/nnUNet) with pretraining and fine-tuning. Trained model checkpoints for all segmented organelles are available on [Zenodo](https://zenodo.org/uploads/17360859).
+Organelle segmentation was performed using [nnUNet](https://github.com/MIC-DKFZ/nnUNet) with pretraining and fine-tuning (GPU is required and we used H100 GPU when running this). Trained model checkpoints for all segmented organelles are available on [Zenodo](https://zenodo.org/uploads/17360859).
 
 ### 3. Mitochondrial Morphology Feature Extraction
 
